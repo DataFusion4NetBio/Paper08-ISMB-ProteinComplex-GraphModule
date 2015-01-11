@@ -1,0 +1,1291 @@
+20              2-oxoglutarate dehydrogenase
+
+30              Acetolactate synthase
+
+40              Alpha-agglutinin anchor
+
+50              Alpha, alpha-trehalose-phosphate synthase
+
+60              Anaphase promoting complex (APC)
+
+70              Anthranilate synthase
+
+75              Arginase
+
+80              Arginine-specific carbamoylphosphate synthase
+
+90              Assembly complexes
+90.10                  Chromatin assembly complex (CAC)
+90.20                  Vacuolar assembly complex
+90.30                  ER assembly complex
+
+100             Calcineurin B
+
+110             cAMP-dependent protein kinase
+
+120             Casein kinase
+120.10                 Casein kinase I
+120.20                 Casein kinase II
+
+123             Catalase
+123.10                 Catalase A
+123.20                 Catalase T
+
+125             Cell cycle checkpoint complexes
+125.10                 DNA damage checkpoint
+125.10.10                         Ddc1p-Mec3p complex
+
+130             Chaperonine containing T-complex TRiC (TCP RING Complex) 
+
+132             CTP synthetase
+
+133             Cyclin-CDK (Cyclin-dependent kinases) complexes
+133.10                 Cdc28p complexes
+133.20                 Pho85p complexes
+133.30                 Kin28p complex
+133.40                 Srb10p complex
+133.50                 Ctk1p  complex
+
+140             Cytoskeleton
+140.10                 10 nm filaments
+140.10.10                         Intermediate filaments
+140.10.20                         Septin filaments
+140.20                 Actin filaments
+140.20.10                         Actins
+140.20.20                         Actin-associated proteins
+140.20.30                         Actin-associated motorproteins
+140.30                 Microtubules
+140.30.10                         Tubulins
+140.30.20                         Tubulin-associated proteins
+140.30.30                         Tubulin-associated motorproteins
+140.30.30.10                          Kinesin-related motorproteins
+140.30.30.20                          Dynein-complex motorproteins
+140.30.30.30                          Dynactin complex
+
+
+143             D-arabinose dehydrogenase
+
+145             delta3-cis-delta2-trans-enoyl-CoA isomerase
+
+150             Endonuclease SceI, mitochondrial
+
+160             Exocyst complex
+
+165             Exopolyphosphatase, vacuolar
+
+170             Fatty acid synthetase, cytoplasmic
+
+172             Fatty acid synthetase, mitochondrial
+
+175             Fumarase
+
+177            Gim complexes
+
+180             Prenyltransferases
+180.10                 Farnesyltransferase (FTase)
+180.20                 Geranylgeranyltransferase I (GGTase I)
+180.30                 Geranylgeranyltransferase II (GGTase II)
+
+190             Glucan synthases
+190.10                 1,3-beta-D-glucan synthase
+190.20                 1,6-beta-D-glucan synthase
+
+200             Glycine decarboxylase
+
+210             H+-ATPase, plasma mebrane
+
+220             H+-transporting ATPase, vacuolar
+220.10                 H+-transporting ATPase ATPase V0 domain#
+220.20                 H+-transporting ATPase ATPase V1 domain#
+
+225             Hexokinase 2
+
+230             Histone acetyltransferase complexes
+230.10                 HAT B complex
+230.20                 HAT A complexes
+230.20.10                        ADA complex
+230.20.20                        SAGA complex
+230.20.30                        NuA3 complex
+230.20.40                        NuA4 complex
+
+240             Histone deacetylase complexes
+240.10                 HDA complex
+240.20                 HDB complex
+
+250             Isocitrate dehydrogenase
+
+253             Isocitrate lyase
+
+260             Intracellular transport complexes
+260.10                Clathrin
+260.20                Clathrin-associated protein (AP) complex 
+260.20.10             AP-1 complex
+260.20.20             AP-2 complex
+260.20.30             AP-3 complex
+260.20.40             Golgi transport complex
+260.20.99             other adaptor like proteins
+
+260.30                Coat complexes (COP)
+260.30.10                        COPI
+260.30.20                        COPII
+260.30.30                        Retromer complex
+260.30.30.10                          Vps35/Vps29/Vps26 complex
+260.30.30.20                          Vps5/Vps17 complex
+260.30.90                        other coat complexes
+260.40                NSF-SNAP complex
+260.50                SNAREs
+260.50.10                        t-SNAREs
+260.50.10.10                          Vam3/Vam7 vacuolar t-SNARE complex   
+260.50.20                        v-SNAREs
+260.60                TRAPP (Transport Protein Particle) complex
+260.70                Vps4p ATPase complex (Vps protein complex)
+260.80                Class C Vps protein complex
+260.90                Arp2p/Arp3p complex
+260.100               Aut2p/Aut7p complex
+
+265             Kel1p/Kel2p complex
+
+270             Kinetochore protein complexes
+270.10                Inner Kinetochor Protein Complex
+270.10.10                CBF3 protein complex
+270.20                Outer Kinetochor Protein Complex
+270.20.10                Ctf19 protein complex 
+270.20.20                Ctf3 protein complex 
+270.20.30                Dam1 protein complex 
+270.20.40                Ndc80 protein complex
+270.20.50                Chl4 protein complex
+270.90                 other kinetochore proteins
+
+280             L-aminopadipate-semialdehyde dehydrogenase
+
+290             Mitochondrial translocase complex
+290.10                TOM - transport across the outer membrane
+290.20                TIM - transport across the inner membrane
+290.20.10                 Tim22p-complex
+290.20.20                 Tim17p-complex
+290.20.30                 Tim9p/Tim10p-complex
+
+295             Nem1p-Spo7p complex
+
+300             Nonsense-mediated mRNA decay pathway complex
+
+310             Nuclear pore complex (NPC)
+310.10              NSP1 complex
+310.20              NSP1-NUP82 complex
+310.30              NSP1-NIC96 complex
+310.40              NUP84 complex
+
+320             Nucleosomal protein complex
+
+325             Ornithine carbamoyltransferase
+
+330             Phenylalaninine-tRNA-ligase
+
+340             Phosphofructokinase
+
+350             Proteases, mitochondrial 
+350.10              ATP-dependent protease complexes
+350.10.10                 m-AAA protease complex
+350.10.20                 Lon protease complex (homohexamer)
+350.10.30                 Yme1 protease complex
+350.20              Inner membrane protease
+350.30              Processing peptidase
+
+360             Proteasome
+360.10                26S proteasome
+360.10.10                20S proteasome
+360.10.20                19/22S regulator
+
+370             Protein N-acetyltransferase
+
+
+390             Pyruvate dehydrogenase
+
+380             Pyruvate kinase
+
+400             RSC complex (Remodel the structure of chromatin)
+
+410             Replication complexes
+410.10                Post-replication complex  (Origin recognition complex=ORC )
+410.20                Replication initiation complex
+410.30                Pre-replication complex (pre-RC)
+410.33	              GINS complex
+410.35                Replication complex
+410.40                Replication fork complexes
+410.40.10                PCNA
+410.40.20                Replication factor A complex
+410.40.30                Replication factor C complex
+410.40.40                DNA helicases
+410.40.50                DNA ligases
+410.40.60                DNA polymerase alpha (I) - primase complex
+410.40.70                DNA polymerase beta (IV)
+410.40.80                DNA polymerase gamma
+410.40.90                DNA polymerase delta (III)
+410.40.100               DNA polymerase epsilon (II)
+410.40.110               DNA polymerase zeta
+410.40.120               Exonucleases
+410.40.130               RNase H1
+410.40.140               Topoisomerases
+410.50                   Telomerase
+
+420             Respiration chain complexes
+420.10                NADH-dehydrogenase (ubichinon, complex I) NOT IN YEAST
+420.20                Succinate dehydrogenase complex (complex II)
+420.30                Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)
+420.40                Cytochrome c oxidase (complex IV)
+420.50                F0/F1 ATP synthase (complex V)
+420.60                other respiration chain complexes
+
+430             Ribonucleoside-diphosphate reductase
+
+440             RNA processing complexes
+440.10                Nuclear processing complexes
+440.10.10               pre mRNA3'-end processing factor CFI
+440.10.20               pre mRNA3'-end processing factor CFII
+440.10.30               pre mRNA polyadenylation factor PFI
+440.12                rRNA processing complexes
+440.12.10               Exosome complex
+440.12.20               RNase MRP
+440.12.30               Nop56p/Nop1p complex
+440.14                tRNA processing complexes
+440.14.10               RNase P
+440.20                Mitochondrial processing complexes
+440.30                Nuclear splicing complexes/Spliceosome
+440.30.10               mRNA splicing
+440.30.10.10                          Prp19p-associated complex
+440.30.10.20                          Prp9p/Prp11p/Prp21p complex
+440.30.20               rRNA splicing           
+440.30.30               tRNA splicing
+440.40                Mitochondrial splicing complexes
+440.40.10               mitochondrial 3'-to-5' exoribonuclease (mtEXO)
+
+440.90                other RNA processing components
+
+443             S-adenosyl-methionine delta-24-sterol-c-methyltransferase
+
+445             SCF (Skp1-Cdc53-F-box protein) comlexes 
+445.10                SCF-CDC4 complex
+445.20                SCF-GRR1 complex
+445.30                SCF-MET30 complex
+
+450             Serine/threonine phoshpoprotein phosphatase
+
+
+470             Signal transduction complexes
+470.10                SNF1 complex
+470.20                STE5-MAPK complex
+470.30                Trimeric G-proteins
+470.30.10                   Pheromone response pathway
+
+475             Nuclear cohesion
+475.05                Sister chromatid cohesion complex
+475.10                Sister chromatid separation complex
+
+
+480             Spindle pole body (SPB)
+480.10                  SPB components
+480.10.05                        gamma-tubulin complex
+480.20                  SPB associated proteins
+
+485             Succinyl-CoA ligase
+
+490             Synaptonemal complex (SC)
+
+500             Translation complexes
+500.10                Cytoplasmic translation initiation
+500.10.10                        eIF1
+500.10.20                        eIF2
+500.10.30                        eIF2B
+500.10.40                        eIF3
+500.10.50                        eIF4A
+500.10.60                        eIF4B
+500.10.70                        eIF4E
+500.10.80                        eIF4F
+500.10.90                        eIF5
+500.10.100                       eIF5A
+500.10.110                       eIF4E/eIF4G/Pab1p complex
+500.10.990                       other cytoplasmic translation initiation components
+500.20                Cytoplasmic translation elongation
+500.20.10                        eEF1
+500.20.20                        eEF2
+500.20.30                        eEF3
+500.30                Cytoplasmic translation termination
+500.30.10                        eRF1
+500.30.30                        eRF3
+500.40                Cytoplasmic ribosomes
+500.40.10                        cytoplasmic ribosomal large subunit
+500.40.20                        cytoplasmic ribosomal small subunit
+500.40.30                        cytoplasmic ribosomal RNA components
+500.50                Mitochondrial translation complexes
+500.50.10                        Mto1p/Mss1p complex
+500.60                Mitochondrial ribosomes
+500.60.10                        mitochondrial ribosomal large subunit
+500.60.20                        mitochondrial ribosomal small subunit
+500.60.30                        mitochondrial ribosomal RNA components
+
+510             Transcription complexes/Transcriptosome
+510.10                RNA polymerase I
+510.20                Core Factor (CF)
+510.30                Upstream Activation Factor (UAF) complex
+
+510.40                RNA polymerase II holoenzyme
+510.40.10                        RNA polymerase II
+510.40.20                        Kornberg's mediator (SRB) complex
+510.50                TFIIA
+510.60                TFIIB
+510.70                TFIID
+510.70.10                        TBP 
+510.70.20                        TAFIIs
+510.80                TFIIE
+510.90                TFIIF
+510.100               TFIIH
+510.110               TFIIK (CTD kinase)
+
+510.120               RNA polymerase III
+510.130               TFIIIA
+510.140               TFIIIB
+510.150               TFIIIC
+
+510.160               CCAAT-binding factor complex
+ 
+510.170               mRNA guanylyl transferase (capping complex)
+
+510.180               DNA repair complexes
+510.180.10               Nucleotide excision repairosome
+510.180.10.10                    NEF1 complex
+510.180.10.20                    NEF2 complex
+510.180.10.30                    NEF3 complex
+510.180.10.40                    NEF4 complex
+510.180.30               Non-homologous end-joining apparatus   
+510.180.30.10                    Ku complex
+510.180.30.20                    DNA ligase IV
+510.180.30.30                    MRE11/RAD50/XRS2 complex
+510.180.50               DNA mismatch repair complexes
+510.180.50.10                    MSH2/MSH3 complex
+510.180.50.20                    MSH2/MSH6 complex
+510.180.50.30                    MLH1/PMS1 complex
+510.180.20               other DNA repair complexes
+
+510.190               Other transcription complexes
+510.190.10               ADA complexes
+510.190.10.10                    ADA complex
+510.190.10.20                    Ada-Spt complexes
+510.190.10.20.10                    SAGA complex
+510.190.10.20.20                    SAGA-like complex (SLIK)
+510.190.20               HPR1 complex
+510.190.30               NAC complex
+510.190.40               NOT complex
+510.190.50               SWI/SNF transcription activator complex
+510.190.60               SBF complex
+510.190.70               MBF complex
+510.190.80               GAL80 complex
+510.190.90               GCR complex
+510.190.100              OAF complex
+510.190.110              CCR4 complex
+510.190.120              ARG complex
+510.190.130              RTG complex
+510.190.140              Tup1/Ssn6 complex
+510.190.150              Sin3 complex
+510.190.160              Met4 complexes
+510.190.160.10                   Cbf1/Met4/Met28 complex
+510.190.160.20                   Met4/Met28/Met31 complex
+510.190.160.30                   Met4/Met28/Met32 complex
+510.190.180              Mot1 complex
+510.190.190              NC2 complex
+510.190.200              Ume6/Ime1 complex
+510.190.210              LEU3 complex
+510.190.900              other transcription complexes
+
+
+520             Translocon
+520.10                   ER protein-translocation complex  (Sec complex)
+520.10.10                        Sec61 complex
+520.10.20                        Sec62-63 complex
+520.10.99                        ER protein-translocation complex associated  proteins   
+520.20                   Oligosaccharyltransferase
+520.30                   Signal peptidase
+520.40                   Signal recognition particle (SRP)
+520.50                   Signal recognition particle receptor (SR)
+
+550             Complexes by Systematic Analysis
+550.1                     Gavin AC, et al.
+550.1.1                          Complex Number 1, probably cell cycle
+550.1.2                          Complex Number 2, probably cell cycle
+550.1.3                          Complex Number 3, probably cell cycle
+550.1.4                          Complex Number 4, probably cell cycle
+550.1.5                          Complex Number 5, probably cell cycle
+550.1.6                          Complex Number 6, probably cell cycle
+550.1.7                          Complex Number 7, probably cell cycle
+550.1.8                          Complex Number 8, probably cell cycle
+550.1.9                          Complex Number 9, probably cell cycle
+550.1.10                          Complex Number 10, probably cell cycle
+550.1.11                          Complex Number 11, probably cell cycle
+550.1.12                          Complex Number 12, probably cell cycle
+550.1.13                          Complex Number 13, probably cell cycle
+550.1.14                          Complex Number 14, probably cell polarity and structure
+550.1.15                          Complex Number 15, probably cell polarity and structure
+550.1.16                          Complex Number 16, probably cell polarity and structure
+550.1.17                          Complex Number 17, probably cell polarity and structure
+550.1.18                          Complex Number 18, probably cell polarity and structure
+550.1.19                          Complex Number 19, probably cell polarity and structure
+550.1.20                          Complex Number 20, probably cell polarity and structure
+550.1.21                          Complex Number 21, probably cell polarity and structure
+550.1.22                          Complex Number 22, probably intermediate and energy metabolism
+550.1.23                          Complex Number 23, probably intermediate and energy metabolism
+550.1.24                          Complex Number 24, probably intermediate and energy metabolism
+550.1.25                          Complex Number 25, probably intermediate and energy metabolism
+550.1.26                          Complex Number 26, probably intermediate and energy metabolism
+550.1.27                          Complex Number 27, probably intermediate and energy metabolism
+550.1.28                          Complex Number 28, probably intermediate and energy metabolism
+550.1.29                          Complex Number 29, probably intermediate and energy metabolism
+550.1.30                          Complex Number 30, probably intermediate and energy metabolism
+550.1.31                          Complex Number 31, probably intermediate and energy metabolism
+550.1.32                          Complex Number 32, probably intermediate and energy metabolism
+550.1.33                          Complex Number 33, probably intermediate and energy metabolism
+550.1.34                          Complex Number 34, probably intermediate and energy metabolism
+550.1.35                          Complex Number 35, probably intermediate and energy metabolism
+550.1.36                          Complex Number 36, probably intermediate and energy metabolism
+550.1.37                          Complex Number 37, probably intermediate and energy metabolism
+550.1.38                          Complex Number 38, probably intermediate and energy metabolism
+550.1.39                          Complex Number 39, probably intermediate and energy metabolism
+550.1.40                          Complex Number 40, probably intermediate and energy metabolism
+550.1.41                          Complex Number 41, probably intermediate and energy metabolism
+550.1.42                          Complex Number 42, probably intermediate and energy metabolism
+550.1.43                          Complex Number 43, probably intermediate and energy metabolism
+550.1.44                          Complex Number 44, probably intermediate and energy metabolism
+550.1.45                          Complex Number 45, probably intermediate and energy metabolism
+550.1.46                          Complex Number 46, probably intermediate and energy metabolism
+550.1.47                          Complex Number 47, probably intermediate and energy metabolism
+550.1.48                          Complex Number 48, probably intermediate and energy metabolism
+550.1.49                          Complex Number 49, probably intermediate and energy metabolism
+550.1.50                          Complex Number 50, probably intermediate and energy metabolism
+550.1.51                          Complex Number 51, probably intermediate and energy metabolism
+550.1.52                          Complex Number 52, probably intermediate and energy metabolism
+550.1.53                          Complex Number 53, probably intermediate and energy metabolism
+550.1.54                          Complex Number 54, probably intermediate and energy metabolism
+550.1.55                          Complex Number 55, probably intermediate and energy metabolism
+550.1.56                          Complex Number 56, probably intermediate and energy metabolism
+550.1.57                          Complex Number 57, probably intermediate and energy metabolism
+550.1.58                          Complex Number 58, probably intermediate and energy metabolism
+550.1.59                          Complex Number 59, probably intermediate and energy metabolism
+550.1.60                          Complex Number 60, probably intermediate and energy metabolism
+550.1.61                          Complex Number 61, probably intermediate and energy metabolism
+550.1.62                          Complex Number 62, probably intermediate and energy metabolism
+550.1.63                          Complex Number 63, probably intermediate and energy metabolism
+550.1.64                          Complex Number 64, probably intermediate and energy metabolism
+550.1.65                          Complex Number 65, probably membrane biogenesis and traffic
+550.1.66                          Complex Number 66, probably membrane biogenesis and traffic
+550.1.67                          Complex Number 67, probably membrane biogenesis and traffic
+550.1.68                          Complex Number 68, probably membrane biogenesis and traffic
+550.1.69                          Complex Number 69, probably membrane biogenesis and traffic
+550.1.70                          Complex Number 70, probably membrane biogenesis and traffic
+550.1.71                          Complex Number 71, probably membrane biogenesis and traffic
+550.1.72                          Complex Number 72, probably membrane biogenesis and traffic
+550.1.73                          Complex Number 73, probably membrane biogenesis and traffic
+550.1.74                          Complex Number 74, probably membrane biogenesis and traffic
+550.1.75                          Complex Number 75, probably membrane biogenesis and traffic
+550.1.76                          Complex Number 76, probably membrane biogenesis and traffic
+550.1.77                          Complex Number 77, probably membrane biogenesis and traffic
+550.1.78                          Complex Number 78, probably membrane biogenesis and traffic
+550.1.79                          Complex Number 79, probably membrane biogenesis and traffic
+550.1.80                          Complex Number 80, probably membrane biogenesis and traffic
+550.1.81                          Complex Number 81, probably membrane biogenesis and traffic
+550.1.82                          Complex Number 82, probably membrane biogenesis and traffic
+550.1.83                          Complex Number 83, probably membrane biogenesis and traffic
+550.1.84                          Complex Number 84, probably membrane biogenesis and traffic
+550.1.85                          Complex Number 85, probably protein synthesis turnover
+550.1.86                          Complex Number 86, probably protein synthesis turnover
+550.1.87                          Complex Number 87, probably protein synthesis turnover
+550.1.88                          Complex Number 88, probably protein synthesis turnover
+550.1.89                          Complex Number 89, probably protein synthesis turnover
+550.1.90                          Complex Number 90, probably protein synthesis turnover
+550.1.91                          Complex Number 91, probably protein synthesis turnover
+550.1.92                          Complex Number 92, probably protein synthesis turnover
+550.1.93                          Complex Number 93, probably protein synthesis turnover
+550.1.94                          Complex Number 94, probably protein synthesis turnover
+550.1.95                          Complex Number 95, probably protein synthesis turnover
+550.1.96                          Complex Number 96, probably protein synthesis turnover
+550.1.97                          Complex Number 97, probably protein synthesis turnover
+550.1.98                          Complex Number 98, probably protein synthesis turnover
+550.1.99                          Complex Number 99, probably protein synthesis turnover
+550.1.100                          Complex Number 100, probably protein synthesis turnover
+550.1.101                          Complex Number 101, probably protein synthesis turnover
+550.1.102                          Complex Number 102, probably protein synthesis turnover
+550.1.103                          Complex Number 103, probably protein synthesis turnover
+550.1.104                          Complex Number 104, probably protein synthesis turnover
+550.1.105                          Complex Number 105, probably protein synthesis turnover
+550.1.106                          Complex Number 106, probably protein synthesis turnover
+550.1.107                          Complex Number 107, probably protein synthesis turnover
+550.1.108                          Complex Number 108, probably protein synthesis turnover
+550.1.109                          Complex Number 109, probably protein synthesis turnover
+550.1.110                          Complex Number 110, probably protein synthesis turnover
+550.1.111                          Complex Number 111, probably protein synthesis turnover
+550.1.112                          Complex Number 112, probably protein synthesis turnover
+550.1.113                          Complex Number 113, probably protein synthesis turnover
+550.1.114                          Complex Number 114, probably protein synthesis turnover
+550.1.115                          Complex Number 115, probably protein synthesis turnover
+550.1.116                          Complex Number 116, probably protein synthesis turnover
+550.1.117                          Complex Number 117, probably protein synthesis turnover
+550.1.118                          Complex Number 118, probably protein/RNA transport
+550.1.119                          Complex Number 119, probably protein/RNA transport
+550.1.120                          Complex Number 120, probably protein/RNA transport
+550.1.121                          Complex Number 121, probably protein/RNA transport
+550.1.122                          Complex Number 122, probably protein/RNA transport
+550.1.123                          Complex Number 123, probably protein/RNA transport
+550.1.124                          Complex Number 124, probably protein/RNA transport
+550.1.125                          Complex Number 125, probably protein/RNA transport
+550.1.126                          Complex Number 126, probably protein/RNA transport
+550.1.127                          Complex Number 127, probably protein/RNA transport
+550.1.128                          Complex Number 128, probably protein/RNA transport
+550.1.129                          Complex Number 129, probably protein/RNA transport
+550.1.130                          Complex Number 130, probably RNA metabolism
+550.1.131                          Complex Number 131, probably RNA metabolism
+550.1.132                          Complex Number 132, probably RNA metabolism
+550.1.133                          Complex Number 133, probably RNA metabolism
+550.1.134                          Complex Number 134, probably RNA metabolism
+550.1.135                          Complex Number 135, probably RNA metabolism
+550.1.136                          Complex Number 136, probably RNA metabolism
+550.1.137                          Complex Number 137, probably RNA metabolism
+550.1.138                          Complex Number 138, probably RNA metabolism
+550.1.139                          Complex Number 139, probably RNA metabolism
+550.1.140                          Complex Number 140, probably RNA metabolism
+550.1.141                          Complex Number 141, probably RNA metabolism
+550.1.142                          Complex Number 142, probably RNA metabolism
+550.1.143                          Complex Number 143, probably RNA metabolism
+550.1.144                          Complex Number 144, probably RNA metabolism
+550.1.145                          Complex Number 145, probably RNA metabolism
+550.1.146                          Complex Number 146, probably RNA metabolism
+550.1.147                          Complex Number 147, probably RNA metabolism
+550.1.148                          Complex Number 148, probably RNA metabolism
+550.1.149                          Complex Number 149, probably RNA metabolism
+550.1.150                          Complex Number 150, probably RNA metabolism
+550.1.151                          Complex Number 151, probably RNA metabolism
+550.1.152                          Complex Number 152, probably RNA metabolism
+550.1.153                          Complex Number 153, probably RNA metabolism
+550.1.154                          Complex Number 154, probably RNA metabolism
+550.1.155                          Complex Number 155, probably RNA metabolism
+550.1.156                          Complex Number 156, probably RNA metabolism
+550.1.157                          Complex Number 157, probably RNA metabolism
+550.1.158                          Complex Number 158, probably signalling
+550.1.159                          Complex Number 159, probably signalling
+550.1.160                          Complex Number 160, probably signalling
+550.1.161                          Complex Number 161, probably signalling
+550.1.162                          Complex Number 162, probably signalling
+550.1.163                          Complex Number 163, probably signalling
+550.1.164                          Complex Number 164, probably signalling
+550.1.165                          Complex Number 165, probably signalling
+550.1.166                          Complex Number 166, probably signalling
+550.1.167                          Complex Number 167, probably signalling
+550.1.168                          Complex Number 168, probably signalling
+550.1.169                          Complex Number 169, probably signalling
+550.1.170                          Complex Number 170, probably signalling
+550.1.171                          Complex Number 171, probably signalling
+550.1.172                          Complex Number 172, probably signalling
+550.1.173                          Complex Number 173, probably signalling
+550.1.174                          Complex Number 174, probably signalling
+550.1.175                          Complex Number 175, probably signalling
+550.1.176                          Complex Number 176, probably signalling
+550.1.177                          Complex Number 177, probably signalling
+550.1.178                          Complex Number 178, probably transcription/DNA maintanance/chromatin structure
+550.1.179                          Complex Number 179, probably transcription/DNA maintanance/chromatin structure
+550.1.180                          Complex Number 180, probably transcription/DNA maintanance/chromatin structure
+550.1.181                          Complex Number 181, probably transcription/DNA maintanance/chromatin structure
+550.1.182                          Complex Number 182, probably transcription/DNA maintanance/chromatin structure
+550.1.183                          Complex Number 183, probably transcription/DNA maintanance/chromatin structure
+550.1.184                          Complex Number 184, probably transcription/DNA maintanance/chromatin structure
+550.1.185                          Complex Number 185, probably transcription/DNA maintanance/chromatin structure
+550.1.186                          Complex Number 186, probably transcription/DNA maintanance/chromatin structure
+550.1.187                          Complex Number 187, probably transcription/DNA maintanance/chromatin structure
+550.1.188                          Complex Number 188, probably transcription/DNA maintanance/chromatin structure
+550.1.189                          Complex Number 189, probably transcription/DNA maintanance/chromatin structure
+550.1.190                          Complex Number 190, probably transcription/DNA maintanance/chromatin structure
+550.1.191                          Complex Number 191, probably transcription/DNA maintanance/chromatin structure
+550.1.192                          Complex Number 192, probably transcription/DNA maintanance/chromatin structure
+550.1.193                          Complex Number 193, probably transcription/DNA maintanance/chromatin structure
+550.1.194                          Complex Number 194, probably transcription/DNA maintanance/chromatin structure
+550.1.195                          Complex Number 195, probably transcription/DNA maintanance/chromatin structure
+550.1.196                          Complex Number 196, probably transcription/DNA maintanance/chromatin structure
+550.1.197                          Complex Number 197, probably transcription/DNA maintanance/chromatin structure
+550.1.198                          Complex Number 198, probably transcription/DNA maintanance/chromatin structure
+550.1.199                          Complex Number 199, probably transcription/DNA maintanance/chromatin structure
+550.1.200                          Complex Number 200, probably transcription/DNA maintanance/chromatin structure
+550.1.201                          Complex Number 201, probably transcription/DNA maintanance/chromatin structure
+550.1.202                          Complex Number 202, probably transcription/DNA maintanance/chromatin structure
+550.1.203                          Complex Number 203, probably transcription/DNA maintanance/chromatin structure
+550.1.204                          Complex Number 204, probably transcription/DNA maintanance/chromatin structure
+550.1.205                          Complex Number 205, probably transcription/DNA maintanance/chromatin structure
+550.1.206                          Complex Number 206, probably transcription/DNA maintanance/chromatin structure
+550.1.207                          Complex Number 207, probably transcription/DNA maintanance/chromatin structure
+550.1.208                          Complex Number 208, probably transcription/DNA maintanance/chromatin structure
+550.1.209                          Complex Number 209, probably transcription/DNA maintanance/chromatin structure
+550.1.210                          Complex Number 210, probably transcription/DNA maintanance/chromatin structure
+550.1.211                          Complex Number 211, probably transcription/DNA maintanance/chromatin structure
+550.1.212                          Complex Number 212, probably transcription/DNA maintanance/chromatin structure
+550.1.213                          Complex Number 213, probably transcription/DNA maintanance/chromatin structure
+550.1.214                          Complex Number 214, probably transcription/DNA maintanance/chromatin structure
+550.1.215                          Complex Number 215, probably transcription/DNA maintanance/chromatin structure
+550.1.216                          Complex Number 216, probably transcription/DNA maintanance/chromatin structure
+550.1.217                          Complex Number 217, probably transcription/DNA maintanance/chromatin structure
+550.1.218                          Complex Number 218, probably transcription/DNA maintanance/chromatin structure
+550.1.219                          Complex Number 219, probably transcription/DNA maintanance/chromatin structure
+550.1.220                          Complex Number 220, probably transcription/DNA maintanance/chromatin structure
+550.1.221                          Complex Number 221, probably transcription/DNA maintanance/chromatin structure
+550.1.222                          Complex Number 222, probably transcription/DNA maintanance/chromatin structure
+550.1.223                          Complex Number 223, probably transcription/DNA maintanance/chromatin structure
+550.1.224                          Complex Number 224, probably transcription/DNA maintanance/chromatin structure
+550.1.225                          Complex Number 225, probably transcription/DNA maintanance/chromatin structure
+550.1.226                          Complex Number 226, probably transcription/DNA maintanance/chromatin structure
+550.1.227                          Complex Number 227, probably transcription/DNA maintanance/chromatin structure
+550.1.228                          Complex Number 228, probably transcription/DNA maintanance/chromatin structure
+550.1.229                          Complex Number 229, probably transcription/DNA maintanance/chromatin structure
+550.1.230                          Complex Number 230, probably transcription/DNA maintanance/chromatin structure
+550.1.231                          Complex Number 231, probably transcription/DNA maintanance/chromatin structure
+550.1.232                          Complex Number 232, probably transcription/DNA maintanance/chromatin structure
+550.2                       Ho Y, et al.
+550.2.1                          Complex Number 1
+550.2.2                          Complex Number 2
+550.2.3                          Complex Number 3
+550.2.4                          Complex Number 4
+550.2.5                          Complex Number 5
+550.2.6                          Complex Number 6
+550.2.7                          Complex Number 7
+550.2.8                          Complex Number 8
+550.2.9                          Complex Number 9
+550.2.10                          Complex Number 10
+550.2.11                          Complex Number 11
+550.2.12                          Complex Number 12
+550.2.13                          Complex Number 13
+550.2.14                          Complex Number 14
+550.2.15                          Complex Number 15
+550.2.16                          Complex Number 16
+550.2.17                          Complex Number 17
+550.2.18                          Complex Number 18
+550.2.19                          Complex Number 19
+550.2.20                          Complex Number 20
+550.2.21                          Complex Number 21
+550.2.22                          Complex Number 22
+550.2.23                          Complex Number 23
+550.2.24                          Complex Number 24
+550.2.25                          Complex Number 25
+550.2.26                          Complex Number 26
+550.2.27                          Complex Number 27
+550.2.28                          Complex Number 28
+550.2.29                          Complex Number 29
+550.2.30                          Complex Number 30
+550.2.31                          Complex Number 31
+550.2.32                          Complex Number 32
+550.2.33                          Complex Number 33
+550.2.34                          Complex Number 34
+550.2.35                          Complex Number 35
+550.2.36                          Complex Number 36
+550.2.37                          Complex Number 37
+550.2.38                          Complex Number 38
+550.2.39                          Complex Number 39
+550.2.40                          Complex Number 40
+550.2.41                          Complex Number 41
+550.2.42                          Complex Number 42
+550.2.43                          Complex Number 43
+550.2.44                          Complex Number 44
+550.2.45                          Complex Number 45
+550.2.46                          Complex Number 46
+550.2.47                          Complex Number 47
+550.2.48                          Complex Number 48
+550.2.49                          Complex Number 49
+550.2.50                          Complex Number 50
+550.2.51                          Complex Number 51
+550.2.52                          Complex Number 52
+550.2.53                          Complex Number 53
+550.2.54                          Complex Number 54
+550.2.55                          Complex Number 55
+550.2.56                          Complex Number 56
+550.2.57                          Complex Number 57
+550.2.58                          Complex Number 58
+550.2.59                          Complex Number 59
+550.2.60                          Complex Number 60
+550.2.61                          Complex Number 61
+550.2.62                          Complex Number 62
+550.2.63                          Complex Number 63
+550.2.64                          Complex Number 64
+550.2.65                          Complex Number 65
+550.2.66                          Complex Number 66
+550.2.67                          Complex Number 67
+550.2.68                          Complex Number 68
+550.2.69                          Complex Number 69
+550.2.70                          Complex Number 70
+550.2.71                          Complex Number 71
+550.2.72                          Complex Number 72
+550.2.73                          Complex Number 73
+550.2.74                          Complex Number 74
+550.2.75                          Complex Number 75
+550.2.76                          Complex Number 76
+550.2.77                          Complex Number 77
+550.2.78                          Complex Number 78
+550.2.79                          Complex Number 79
+550.2.80                          Complex Number 80
+550.2.81                          Complex Number 81
+550.2.82                          Complex Number 82
+550.2.83                          Complex Number 83
+550.2.84                          Complex Number 84
+550.2.85                          Complex Number 85
+550.2.86                          Complex Number 86
+550.2.87                          Complex Number 87
+550.2.88                          Complex Number 88
+550.2.89                          Complex Number 89
+550.2.90                          Complex Number 90
+550.2.91                          Complex Number 91
+550.2.92                          Complex Number 92
+550.2.93                          Complex Number 93
+550.2.94                          Complex Number 94
+550.2.95                          Complex Number 95
+550.2.96                          Complex Number 96
+550.2.97                          Complex Number 97
+550.2.98                          Complex Number 98
+550.2.99                          Complex Number 99
+550.2.100                          Complex Number 100
+550.2.101                          Complex Number 101
+550.2.102                          Complex Number 102
+550.2.103                          Complex Number 103
+550.2.104                          Complex Number 104
+550.2.105                          Complex Number 105
+550.2.106                          Complex Number 106
+550.2.107                          Complex Number 107
+550.2.108                          Complex Number 108
+550.2.109                          Complex Number 109
+550.2.110                          Complex Number 110
+550.2.111                          Complex Number 111
+550.2.112                          Complex Number 112
+550.2.113                          Complex Number 113
+550.2.114                          Complex Number 114
+550.2.115                          Complex Number 115
+550.2.116                          Complex Number 116
+550.2.117                          Complex Number 117
+550.2.118                          Complex Number 118
+550.2.119                          Complex Number 119
+550.2.120                          Complex Number 120
+550.2.121                          Complex Number 121
+550.2.122                          Complex Number 122
+550.2.123                          Complex Number 123
+550.2.124                          Complex Number 124
+550.2.125                          Complex Number 125
+550.2.126                          Complex Number 126
+550.2.127                          Complex Number 127
+550.2.128                          Complex Number 128
+550.2.129                          Complex Number 129
+550.2.130                          Complex Number 130
+550.2.131                          Complex Number 131
+550.2.132                          Complex Number 132
+550.2.133                          Complex Number 133
+550.2.134                          Complex Number 134
+550.2.135                          Complex Number 135
+550.2.136                          Complex Number 136
+550.2.137                          Complex Number 137
+550.2.138                          Complex Number 138
+550.2.139                          Complex Number 139
+550.2.140                          Complex Number 140
+550.2.141                          Complex Number 141
+550.2.142                          Complex Number 142
+550.2.143                          Complex Number 143
+550.2.144                          Complex Number 144
+550.2.145                          Complex Number 145
+550.2.146                          Complex Number 146
+550.2.147                          Complex Number 147
+550.2.148                          Complex Number 148
+550.2.149                          Complex Number 149
+550.2.150                          Complex Number 150
+550.2.151                          Complex Number 151
+550.2.152                          Complex Number 152
+550.2.153                          Complex Number 153
+550.2.154                          Complex Number 154
+550.2.155                          Complex Number 155
+550.2.156                          Complex Number 156
+550.2.157                          Complex Number 157
+550.2.158                          Complex Number 158
+550.2.159                          Complex Number 159
+550.2.160                          Complex Number 160
+550.2.161                          Complex Number 161
+550.2.162                          Complex Number 162
+550.2.163                          Complex Number 163
+550.2.164                          Complex Number 164
+550.2.165                          Complex Number 165
+550.2.166                          Complex Number 166
+550.2.167                          Complex Number 167
+550.2.168                          Complex Number 168
+550.2.169                          Complex Number 169
+550.2.170                          Complex Number 170
+550.2.171                          Complex Number 171
+550.2.172                          Complex Number 172
+550.2.173                          Complex Number 173
+550.2.174                          Complex Number 174
+550.2.175                          Complex Number 175
+550.2.176                          Complex Number 176
+550.2.177                          Complex Number 177
+550.2.178                          Complex Number 178
+550.2.179                          Complex Number 179
+550.2.180                          Complex Number 180
+550.2.181                          Complex Number 181
+550.2.182                          Complex Number 182
+550.2.183                          Complex Number 183
+550.2.184                          Complex Number 184
+550.2.185                          Complex Number 185
+550.2.186                          Complex Number 186
+550.2.187                          Complex Number 187
+550.2.188                          Complex Number 188
+550.2.189                          Complex Number 189
+550.2.190                          Complex Number 190
+550.2.191                          Complex Number 191
+550.2.192                          Complex Number 192
+550.2.193                          Complex Number 193
+550.2.194                          Complex Number 194
+550.2.195                          Complex Number 195
+550.2.196                          Complex Number 196
+550.2.197                          Complex Number 197
+550.2.198                          Complex Number 198
+550.2.199                          Complex Number 199
+550.2.200                          Complex Number 200
+550.2.201                          Complex Number 201
+550.2.202                          Complex Number 202
+550.2.203                          Complex Number 203
+550.2.204                          Complex Number 204
+550.2.205                          Complex Number 205
+550.2.206                          Complex Number 206
+550.2.207                          Complex Number 207
+550.2.208                          Complex Number 208
+550.2.209                          Complex Number 209
+550.2.210                          Complex Number 210
+550.2.211                          Complex Number 211
+550.2.212                          Complex Number 212
+550.2.213                          Complex Number 213
+550.2.214                          Complex Number 214
+550.2.215                          Complex Number 215
+550.2.216                          Complex Number 216
+550.2.217                          Complex Number 217
+550.2.218                          Complex Number 218
+550.2.219                          Complex Number 219
+550.2.220                          Complex Number 220
+550.2.221                          Complex Number 221
+550.2.222                          Complex Number 222
+550.2.223                          Complex Number 223
+550.2.224                          Complex Number 224
+550.2.225                          Complex Number 225
+550.2.226                          Complex Number 226
+550.2.227                          Complex Number 227
+550.2.228                          Complex Number 228
+550.2.229                          Complex Number 229
+550.2.230                          Complex Number 230
+550.2.231                          Complex Number 231
+550.2.232                          Complex Number 232
+550.2.233                          Complex Number 233
+550.2.234                          Complex Number 234
+550.2.235                          Complex Number 235
+550.2.236                          Complex Number 236
+550.2.237                          Complex Number 237
+550.2.238                          Complex Number 238
+550.2.239                          Complex Number 239
+550.2.240                          Complex Number 240
+550.2.241                          Complex Number 241
+550.2.242                          Complex Number 242
+550.2.243                          Complex Number 243
+550.2.244                          Complex Number 244
+550.2.245                          Complex Number 245
+550.2.246                          Complex Number 246
+550.2.247                          Complex Number 247
+550.2.248                          Complex Number 248
+550.2.249                          Complex Number 249
+550.2.250                          Complex Number 250
+550.2.251                          Complex Number 251
+550.2.252                          Complex Number 252
+550.2.253                          Complex Number 253
+550.2.254                          Complex Number 254
+550.2.255                          Complex Number 255
+550.2.256                          Complex Number 256
+550.2.257                          Complex Number 257
+550.2.258                          Complex Number 258
+550.2.259                          Complex Number 259
+550.2.260                          Complex Number 260
+550.2.261                          Complex Number 261
+550.2.262                          Complex Number 262
+550.2.263                          Complex Number 263
+550.2.264                          Complex Number 264
+550.2.265                          Complex Number 265
+550.2.266                          Complex Number 266
+550.2.267                          Complex Number 267
+550.2.268                          Complex Number 268
+550.2.269                          Complex Number 269
+550.2.270                          Complex Number 270
+550.2.271                          Complex Number 271
+550.2.272                          Complex Number 272
+550.2.273                          Complex Number 273
+550.2.274                          Complex Number 274
+550.2.275                          Complex Number 275
+550.2.276                          Complex Number 276
+550.2.277                          Complex Number 277
+550.2.278                          Complex Number 278
+550.2.279                          Complex Number 279
+550.2.280                          Complex Number 280
+550.2.281                          Complex Number 281
+550.2.282                          Complex Number 282
+550.2.283                          Complex Number 283
+550.2.284                          Complex Number 284
+550.2.285                          Complex Number 285
+550.2.286                          Complex Number 286
+550.2.287                          Complex Number 287
+550.2.288                          Complex Number 288
+550.2.289                          Complex Number 289
+550.2.290                          Complex Number 290
+550.2.291                          Complex Number 291
+550.2.292                          Complex Number 292
+550.2.293                          Complex Number 293
+550.2.294                          Complex Number 294
+550.2.295                          Complex Number 295
+550.2.296                          Complex Number 296
+550.2.297                          Complex Number 297
+550.2.298                          Complex Number 298
+550.2.299                          Complex Number 299
+550.2.300                          Complex Number 300
+550.2.301                          Complex Number 301
+550.2.302                          Complex Number 302
+550.2.303                          Complex Number 303
+550.2.304                          Complex Number 304
+550.2.305                          Complex Number 305
+550.2.306                          Complex Number 306
+550.2.307                          Complex Number 307
+550.2.308                          Complex Number 308
+550.2.309                          Complex Number 309
+550.2.310                          Complex Number 310
+550.2.311                          Complex Number 311
+550.2.312                          Complex Number 312
+550.2.313                          Complex Number 313
+550.2.314                          Complex Number 314
+550.2.315                          Complex Number 315
+550.2.316                          Complex Number 316
+550.2.317                          Complex Number 317
+550.2.318                          Complex Number 318
+550.2.319                          Complex Number 319
+550.2.320                          Complex Number 320
+550.2.321                          Complex Number 321
+550.2.322                          Complex Number 322
+550.2.323                          Complex Number 323
+550.2.324                          Complex Number 324
+550.2.325                          Complex Number 325
+550.2.326                          Complex Number 326
+550.2.327                          Complex Number 327
+550.2.328                          Complex Number 328
+550.2.329                          Complex Number 329
+550.2.330                          Complex Number 330
+550.2.331                          Complex Number 331
+550.2.332                          Complex Number 332
+550.2.333                          Complex Number 333
+550.2.334                          Complex Number 334
+550.2.335                          Complex Number 335
+550.2.336                          Complex Number 336
+550.2.337                          Complex Number 337
+550.2.338                          Complex Number 338
+550.2.339                          Complex Number 339
+550.2.340                          Complex Number 340
+550.2.341                          Complex Number 341
+550.2.342                          Complex Number 342
+550.2.343                          Complex Number 343
+550.2.344                          Complex Number 344
+550.2.345                          Complex Number 345
+550.2.346                          Complex Number 346
+550.2.347                          Complex Number 347
+550.2.348                          Complex Number 348
+550.2.349                          Complex Number 349
+550.2.350                          Complex Number 350
+550.2.351                          Complex Number 351
+550.2.352                          Complex Number 352
+550.2.353                          Complex Number 353
+550.2.354                          Complex Number 354
+550.2.355                          Complex Number 355
+550.2.356                          Complex Number 356
+550.2.357                          Complex Number 357
+550.2.358                          Complex Number 358
+550.2.359                          Complex Number 359
+550.2.360                          Complex Number 360
+550.2.361                          Complex Number 361
+550.2.362                          Complex Number 362
+550.2.363                          Complex Number 363
+550.2.364                          Complex Number 364
+550.2.365                          Complex Number 365
+550.2.366                          Complex Number 366
+550.2.367                          Complex Number 367
+550.2.368                          Complex Number 368
+550.2.369                          Complex Number 369
+550.2.370                          Complex Number 370
+550.2.371                          Complex Number 371
+550.2.372                          Complex Number 372
+550.2.373                          Complex Number 373
+550.2.374                          Complex Number 374
+550.2.375                          Complex Number 375
+550.2.376                          Complex Number 376
+550.2.377                          Complex Number 377
+550.2.378                          Complex Number 378
+550.2.379                          Complex Number 379
+550.2.380                          Complex Number 380
+550.2.381                          Complex Number 381
+550.2.382                          Complex Number 382
+550.2.383                          Complex Number 383
+550.2.384                          Complex Number 384
+550.2.385                          Complex Number 385
+550.2.386                          Complex Number 386
+550.2.387                          Complex Number 387
+550.2.388                          Complex Number 388
+550.2.389                          Complex Number 389
+550.2.390                          Complex Number 390
+550.2.391                          Complex Number 391
+550.2.392                          Complex Number 392
+550.2.393                          Complex Number 393
+550.2.394                          Complex Number 394
+550.2.395                          Complex Number 395
+550.2.396                          Complex Number 396
+550.2.397                          Complex Number 397
+550.2.398                          Complex Number 398
+550.2.399                          Complex Number 399
+550.2.400                          Complex Number 400
+550.2.401                          Complex Number 401
+550.2.402                          Complex Number 402
+550.2.403                          Complex Number 403
+550.2.404                          Complex Number 404
+550.2.405                          Complex Number 405
+550.2.406                          Complex Number 406
+550.2.407                          Complex Number 407
+550.2.408                          Complex Number 408
+550.2.409                          Complex Number 409
+550.2.410                          Complex Number 410
+550.2.411                          Complex Number 411
+550.2.412                          Complex Number 412
+550.2.413                          Complex Number 413
+550.2.414                          Complex Number 414
+550.2.415                          Complex Number 415
+550.2.416                          Complex Number 416
+550.2.417                          Complex Number 417
+550.2.418                          Complex Number 418
+550.2.419                          Complex Number 419
+550.2.420                          Complex Number 420
+550.2.421                          Complex Number 421
+550.2.422                          Complex Number 422
+550.2.423                          Complex Number 423
+550.2.424                          Complex Number 424
+550.2.425                          Complex Number 425
+550.2.426                          Complex Number 426
+550.2.427                          Complex Number 427
+550.2.428                          Complex Number 428
+550.2.429                          Complex Number 429
+550.2.430                          Complex Number 430
+550.2.431                          Complex Number 431
+550.2.432                          Complex Number 432
+550.2.433                          Complex Number 433
+550.2.434                          Complex Number 434
+550.2.435                          Complex Number 435
+550.2.436                          Complex Number 436
+550.2.437                          Complex Number 437
+550.2.438                          Complex Number 438
+550.2.439                          Complex Number 439
+550.2.440                          Complex Number 440
+550.2.441                          Complex Number 441
+550.2.442                          Complex Number 442
+550.2.443                          Complex Number 443
+550.2.444                          Complex Number 444
+550.2.445                          Complex Number 445
+550.2.446                          Complex Number 446
+550.2.447                          Complex Number 447
+550.2.448                          Complex Number 448
+550.2.449                          Complex Number 449
+550.2.450                          Complex Number 450
+550.2.451                          Complex Number 451
+550.2.452                          Complex Number 452
+550.2.453                          Complex Number 453
+550.2.454                          Complex Number 454
+550.2.455                          Complex Number 455
+550.2.456                          Complex Number 456
+550.2.457                          Complex Number 457
+550.2.458                          Complex Number 458
+550.2.459                          Complex Number 459
+550.2.460                          Complex Number 460
+550.2.461                          Complex Number 461
+550.2.462                          Complex Number 462
+550.2.463                          Complex Number 463
+550.2.464                          Complex Number 464
+550.2.465                          Complex Number 465
+550.2.466                          Complex Number 466
+550.2.467                          Complex Number 467
+550.2.468                          Complex Number 468
+550.2.469                          Complex Number 469
+550.2.470                          Complex Number 470
+550.2.471                          Complex Number 471
+550.2.472                          Complex Number 472
+550.2.473                          Complex Number 473
+550.2.474                          Complex Number 474
+550.2.475                          Complex Number 475
+550.2.476                          Complex Number 476
+550.2.477                          Complex Number 477
+550.2.478                          Complex Number 478
+550.2.479                          Complex Number 479
+550.2.480                          Complex Number 480
+550.2.481                          Complex Number 481
+550.2.482                          Complex Number 482
+550.2.483                          Complex Number 483
+550.2.484                          Complex Number 484
+550.2.485                          Complex Number 485
+550.2.486                          Complex Number 486
+550.2.487                          Complex Number 487
+550.2.488                          Complex Number 488
+550.2.489                          Complex Number 489
+550.2.490                          Complex Number 490
+550.2.491                          Complex Number 491
+550.2.492                          Complex Number 492
+550.2.493                          Complex Number 493
+550.2.494                          Complex Number 494
+550.2.495                          Complex Number 495
+550.2.496                          Complex Number 496
+550.2.497                          Complex Number 497
+550.2.498                          Complex Number 498
+550.2.499                          Complex Number 499
+550.2.500                          Complex Number 500
+550.2.501                          Complex Number 501
+550.2.502                          Complex Number 502
+550.2.503                          Complex Number 503
+550.2.504                          Complex Number 504
+550.2.505                          Complex Number 505
+550.2.506                          Complex Number 506
+550.2.507                          Complex Number 507
+550.2.508                          Complex Number 508
+550.2.509                          Complex Number 509
+550.2.510                          Complex Number 510
+550.2.511                          Complex Number 511
+550.2.512                          Complex Number 512
+550.2.513                          Complex Number 513
+550.2.514                          Complex Number 514
+550.2.515                          Complex Number 515
+550.2.516                          Complex Number 516
+550.2.517                          Complex Number 517
+550.2.518                          Complex Number 518
+550.2.519                          Complex Number 519
+550.2.520                          Complex Number 520
+550.2.521                          Complex Number 521
+550.2.522                          Complex Number 522
+550.2.523                          Complex Number 523
+550.2.524                          Complex Number 524
+550.2.525                          Complex Number 525
+550.2.526                          Complex Number 526
+550.2.527                          Complex Number 527
+550.2.528                          Complex Number 528
+550.2.529                          Complex Number 529
+550.2.530                          Complex Number 530
+550.2.531                          Complex Number 531
+550.2.532                          Complex Number 532
+550.2.533                          Complex Number 533
+550.2.534                          Complex Number 534
+550.2.535                          Complex Number 535
+550.2.536                          Complex Number 536
+550.2.537                          Complex Number 537
+550.2.538                          Complex Number 538
+550.2.539                          Complex Number 539
+550.2.540                          Complex Number 540
+550.2.541                          Complex Number 541
+550.2.542                          Complex Number 542
+550.2.543                          Complex Number 543
+550.2.544                          Complex Number 544
+550.2.545                          Complex Number 545
+550.2.546                          Complex Number 546
+550.2.547                          Complex Number 547
+550.2.548                          Complex Number 548
+550.2.549                          Complex Number 549
+550.2.550                          Complex Number 550
+550.2.551                          Complex Number 551
+550.2.552                          Complex Number 552
+550.3                     Krogan NJ, et al.
+550.3.1                          Complex Number 1, Met-glut tRNA synthetase (3)
+550.3.2                          Complex Number 2, Yer049w (1)
+550.3.3                          Complex Number 3, Kel3 (1)
+550.3.4                          Complex Number 4, Dbp3/Bmh1/Nsr1 (3)
+550.3.5                          Complex Number 5, Gar1/Cbf5 (6)
+550.3.6                          Complex Number 6, Nop58/Sik1 (3)
+550.3.7                          Complex Number 7, Dbp7/Rrp5 (4)
+550.3.8                          Complex Number 8, Hca4 (1)
+550.3.9                          Complex Number 9, Mtr4 (3)
+550.3.10                          Complex Number 10, Mdm20/Nat3 (2)
+550.3.11                          Complex Number 11, Noc (3)
+550.3.12                          Complex Number 12, Sit4 (6)
+550.3.13                          Complex Number 13, U4/U6.U5 tri-snRNP (2)
+550.3.14                          Complex Number 14, U6-specific snRNP core (14)
+550.3.15                          Complex Number 15, Nop1 (1)
+550.3.16                          Complex Number 16, Ded1 (1)
+550.3.17                          Complex Number 17, Pab1 (1)
+550.3.18                          Complex Number 18, Ydr117c/Rps4b (2)
+550.3.19                          Complex Number 19, mRNA cap-binding/eIF4F (8)
+550.3.20                          Complex Number 20, Npl3 (1)
+550.3.21                          Complex Number 21, Rrp9 (1)
+550.3.22                          Complex Number 22, Exosome (12)
+550.3.23                          Complex Number 23, RNA Polymerase III (12)
+550.3.24                          Complex Number 24, RNA Polymerase II (12)
+550.3.25                          Complex Number 25, RNA polymerase I (7)
+550.3.26                          Complex Number 26, Rrb1/Rpl3 (2)
+550.3.27                          Complex Number 27, Cbc2/Sto1 (2)
+550.3.28                          Complex Number 28, Nop7/Erb1/Ytm1 (3)
+550.3.29                          Complex Number 29, Rrp8 (1)
+550.3.30                          Complex Number 30, Sub2 (1)
+550.3.31                          Complex Number 31, TREX (5)
+550.3.32                          Complex Number 32, RSC (13)
+550.3.33                          Complex Number 33, Mediator (8)
+550.3.34                          Complex Number 34, TFIIIC (4)
+550.3.35                          Complex Number 35, U1 snRNP (7)
+550.3.36                          Complex Number 36, Ynl313c (1)
+550.3.37                          Complex Number 37, Dst1 (1)
+550.3.38                          Complex Number 38, Arx1 Complex (5)
+550.3.39                          Complex Number 39, Cic1 (1)
+550.3.40                          Complex Number 40, Pwp1/Brx1/Nop12 (3)
+550.3.41                          Complex Number 41, Nap1 (3)
+550.3.42                          Complex Number 42, Ydr365c (1)
+550.3.43                          Complex Number 43, UTP A (8)
+550.3.44                          Complex Number 44, Vip1 (1)
+550.3.45                          Complex Number 45, Yor112w (1)
+550.3.46                          Complex Number 46, SPT16 (8)
+550.3.47                          Complex Number 47, Casein Kinase II (4)
+550.3.48                          Complex Number 48, UTP22/RRP7 (2)
+550.3.49                          Complex Number 49, Ykl088w (3)
+550.3.50                          Complex Number 50, 19S Proteosome (17)
+550.3.51                          Complex Number 51, eIF3 (7)
+550.3.52                          Complex Number 52, tIF2 (7)
+550.3.53                          Complex Number 53, Kap95/Srp1 (2)
+550.3.54                          Complex Number 54, Rli1/Rpp0 (3)
+550.3.55                          Complex Number 55, Prp19 (4)
+550.3.56                          Complex Number 56, mRNA cleavage/polyadenylation (10)
+550.3.57                          Complex Number 57, Imd (3)
+550.3.58                          Complex Number 58, Gir Complex (2)
+550.3.59                          Complex Number 59, Ssd1 (1)
+550.3.60                          Complex Number 60, 20S Proteosome (13)
+550.3.61                          Complex Number 61, Aah1 (1)
+550.3.62                          Complex Number 62, Aar2 (1)
+550.3.63                          Complex Number 63, Ala1 (1)
+550.3.64                          Complex Number 64, Bcp1/Rpl23A (3)
+550.3.65                          Complex Number 65, CCR4 (3)
+550.3.66                          Complex Number 66, Ecm16 (1)
+550.3.67                          Complex Number 67, Ipi (3)
+550.3.68                          Complex Number 68, Lsg1 (1)
+550.3.69                          Complex Number 69, Nab2/Kap104 (2)
+550.3.70                          Complex Number 70, Nam7 (1)
+550.3.71                          Complex Number 71, Nup82 (1)
+550.3.72                          Complex Number 72, Pep1 (1)
+550.3.73                          Complex Number 73, Puf6 (1)
+550.3.74                          Complex Number 74, Pus1 (1)
+550.3.75                          Complex Number 75, Pus4 (1)
+550.3.76                          Complex Number 76, Rcl1/Bms1 (2)
+550.3.77                          Complex Number 77, Reb1 (1)
+550.3.78                          Complex Number 78, Rnase P (3)
+550.3.79                          Complex Number 79, Rnt1 (1)
+550.3.80                          Complex Number 80, SRP (3)
+550.3.81                          Complex Number 81, Ths1 (1)
+550.3.82                          Complex Number 82, Translation release factor (2)
+550.3.83                          Complex Number 83, Trm1/Nsa1 (2)
+550.3.84                          Complex Number 84, Trm3 (1)
+550.3.85                          Complex Number 85, Trm7 (2)
+550.3.86                          Complex Number 86, Tsr2 (1)
+550.3.87                          Complex Number 87, UTP B (6)
+550.3.88                          Complex Number 88, Ura7 (1)
+550.3.89                          Complex Number 89, Ybr025c (1)
+550.3.90                          Complex Number 90, Ykl014c (1)
+550.3.91                          Complex Number 91, eEF2 (2)
+
+X KNOWN CELLULAR COMPLEX
+- UNKNOWN CELLULAR COMPLEX

@@ -1,0 +1,83 @@
+
+This directory contains a file with information about S. cerevisiae
+proteins annotated in SGD with data such as predicted molecular
+weight, protein length, codon bias, etc and a directory called
+Hypothetical_peptides which has FASTA formated files for each of the
+16 nuclear chromosomes containing all possible peptides of 20 amino
+acids or greater.
+
+For information about how protein_info data were generated, see the 
+Help page for the Protein Information page at:
+
+http://www.yeastgenome.org/help/protein_page.html
+
+For the Oracle database schema and specifications for SGD, please refer to:
+
+http://db.yeastgenome.org/schema/SgdSchema.html
+
+File:
+=======
+protein_properties.tab:
+
+Contains basic protein information about each ORF in SGD. This file
+does not include information on deleted or merged ORFs. Note, however,
+that it includes ORFs of all other classifications (Verified,
+Uncharacterized, and Dubious). This file is updated weekly (Saturday).
+
+The columns are below; only the first two columns are mandatory.  The
+column designated by an amino acid is the number of that particular
+residue in the protein sequence.  For example, if the ALA column is 2,
+then the protein contains 2 alanines.
+
+
+Columns in protein_properties.tab:
+
+0 FEATURE (ORF name)
+1 SGDID
+2 MOLECULAR WEIGHT (in Daltons)
+3 PI
+4 CAI (Codon Adaptation Index)
+5 PROTEIN LENGTH
+N TERM SEQ
+C TERM SEQ
+CODON BIAS
+ALA
+ARG
+ASN
+ASP
+CYS
+GLN
+GLU
+GLY
+HIS
+ILE
+LEU
+LYS
+MET
+PHE
+PRO
+SER
+THR
+TRP
+TYR
+VAL
+FOP SCORE (Frequency of Optimal Codons)
+GRAVY SCORE (Hydropathicity of Protein)
+AROMATICITY SCORE (Frequency of aromatic amino acids: Phe, Tyr, Trp)
+Feature type (ORF classification: Verified, Uncharacterized, Dubious)
+
+================
+
+Directory: Hypothetical_peptides
+
+This directory contains files, the PERL script used to create the
+files, of all possible peptides of 20 amino acids or greater within
+the S.cerevisiae genome. The files in this directory are ordered by
+the S. cerevisiae chromosome numbers.
+
+================
+
+
+
+
+
